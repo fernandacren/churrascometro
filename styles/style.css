@@ -17,6 +17,7 @@ body {
     display: flex;
     flex-direction: row-reverse;   
     flex-wrap:wrap;
+    justify-content: space-around;
     background-image: url(../img/churras.png);
     background-repeat: no-repeat;
     background-position: 60vw 20vh;
